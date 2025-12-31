@@ -7,6 +7,7 @@ For now this project will be done via the OpenGL API with GLFW and GLEW librarie
 [OpenGL Wiki](https://wikis.khronos.org/opengl/Main_Page)  
 [OpenGL-Tutorial](https://www.opengl-tutorial.org/)  
 [GLFW](https://www.glfw.org/)  
+[GLEW](https://glew.sourceforge.net/)  
 
 ### Books
 *Computer Graphics from Scratch: A Programmer's Introduction to 3D Rendering* - Gabriel Gambetta
